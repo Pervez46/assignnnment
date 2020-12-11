@@ -1,0 +1,207 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+header{
+	background-color: #121B2A;
+	padding: 10px 0px;
+}
+.container{
+	width: 80%;
+	margin: 0px auto;
+	
+	overflow: hidden;
+
+}
+.logo{
+	width: 20%;
+	
+	float: left;
+
+
+}
+.logo img{
+	width: 100%;
+	margin-top: 12px;
+
+}
+.menu{
+	width: 70%;
+	
+	float: right;
+	margin-top: 60px;
+
+}
+.menu ul{
+	float: right;
+
+}
+.menu ul li{
+	float: left;
+	list-style: none;
+
+}
+.menu ul li a{
+	color: white;
+	text-decoration: none;
+	font-size: 16px;
+	font-family: sans-serif;
+	font-weight: 400px;
+	text-transform: uppercase;
+	padding: 0px 20px;
+	transition:  .3s;
+
+}
+.menu ul li:last-child a{
+	padding-right: 0px;
+}
+.menu ul li a:hover{
+	color: #0178BA;
+
+}
+
+
+
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+header{
+	background-color: #121B2A;
+	padding: 10px 0px;
+}
+.container{
+	width: 80%;
+	margin: 0px auto;
+	
+	overflow: hidden;
+
+}
+.logo{
+	width: 20%;
+	
+	float: left;
+
+
+}
+.logo img{
+	width: 100%;
+	margin-top: 12px;
+
+}
+.menu{
+	width: 70%;
+	
+	float: right;
+	margin-top: 60px;
+
+}
+.menu ul{
+	float: right;
+
+}
+.menu ul li{
+	float: left;
+	list-style: none;
+
+}
+.menu ul li a{
+	color: white;
+	text-decoration: none;
+	font-size: 16px;
+	font-family: sans-serif;
+	font-weight: 400px;
+	text-transform: uppercase;
+	padding: 0px 20px;
+	transition:  .3s;
+
+}
+.menu ul li:last-child a{
+	padding-right: 0px;
+}
+.menu ul li a:hover{
+	color: #0178BA;
+
+}
+
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+header{
+	background-color: #121B2A;
+	padding: 10px 0px;
+
+	
+}
+.container{
+	width: 80%;
+	margin: 0px auto;
+	
+	overflow: hidden;
+
+}
+.logo{
+	width: 20%;
+	
+	float: left;
+
+
+}
+.logo img{
+	width: 100%;
+	margin-top: 12px;
+
+}
+.menu{
+	width: 70%;
+	
+	float: right;
+	margin-top: 60px;
+
+}
+.menu ul{
+	float: right;
+
+}
+.menu ul li{
+	float: left;
+	list-style: none;
+
+}
+.menu ul li a{
+	color: white;
+	text-decoration: none;
+	font-size: 16px;
+	font-family: sans-serif;
+	font-weight: 400px;
+	text-transform: uppercase;
+	padding: 0px 20px;
+	transition:  .3s;
+
+}
+.menu ul li:last-child a{
+	padding-right: 0px;
+}
+.menu ul li a:hover{
+	color: #0178BA;
+
+}
+
+#gap{
+	margin: 20px 0px;
+
+}
+
+
+.box{
+	background-color: red;
+	width: 100%;
+	height: 300px;
+	margin-top: 50px;
+}
+
+
+
